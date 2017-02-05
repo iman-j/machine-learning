@@ -1,3 +1,3 @@
 # machinelearning
 
-A few discussions and other words on machine learning algorithms.
+Discussions and other words on machine learning algorithms.

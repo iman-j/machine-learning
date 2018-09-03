@@ -1,3 +1,3 @@
 # machinelearning
 
-Discussions and other on machine learning and algorithms
+Machine learning discussions using Jupyter Notebooks.

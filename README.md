@@ -1,3 +1,3 @@
 # machinelearning
 
-Machine learning discussions using Jupyter Notebooks.
+Machine Learning implementations using Jupyter Notebook.

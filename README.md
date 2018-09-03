@@ -1,3 +1,3 @@
 # machinelearning
 
-Machine Learning implementations using Jupyter Notebook.
+Machine Learning implementations in R and Python using Jupyter Notebook.
